@@ -1,0 +1,507 @@
+MouseState { coords: (630, 533), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (627, 540), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (629, 549), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (636, 559), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (647, 569), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (660, 580), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (674, 589), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (691, 602), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (702, 608), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (709, 612), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (710, 613), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (711, 614), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (707, 614), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (696, 614), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (683, 613), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (673, 613), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (667, 616), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (665, 624), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (667, 643), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (682, 674), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (708, 717), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (741, 758), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (780, 808), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (822, 846), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (861, 874), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (905, 896), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (955, 902), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1010, 901), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1072, 880), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1128, 849), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1183, 809), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1227, 768), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1259, 725), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1278, 683), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1287, 638), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1283, 598), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1260, 553), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1217, 513), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1156, 477), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1080, 449), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1005, 431), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (941, 423), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (894, 426), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (868, 441), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (854, 470), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (853, 500), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (868, 554), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (913, 622), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (974, 695), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1056, 764), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1158, 826), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1266, 868), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1371, 895), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1470, 909), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1541, 917), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1577, 919), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1576, 915), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1565, 912), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1536, 904), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1468, 883), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1371, 859), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1264, 833), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1156, 808), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1076, 795), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1031, 786), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1031, 785), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1031, 783), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1031, 779), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1040, 765), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1063, 737), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1095, 703), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1137, 668), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1171, 633), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1203, 599), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1221, 574), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1229, 557), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1229, 542), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1222, 529), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1196, 514), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1149, 499), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1080, 486), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (990, 480), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (898, 475), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (827, 476), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (782, 488), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (758, 500), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (751, 507), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (748, 516), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (753, 524), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (780, 532), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (828, 540), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (883, 544), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (942, 544), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1001, 535), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1053, 517), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1095, 498), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1121, 481), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1129, 470), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1131, 460), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1127, 446), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1101, 426), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1056, 402), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (993, 375), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (920, 353), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (840, 338), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (761, 330), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (688, 330), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (630, 337), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (590, 360), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (564, 390), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (553, 428), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (553, 474), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (571, 531), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (607, 590), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (661, 651), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (737, 711), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (817, 754), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (890, 775), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (954, 788), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (997, 788), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1022, 787), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1034, 780), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1039, 771), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1039, 754), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1028, 724), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (997, 685), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (947, 635), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (881, 582), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (806, 529), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (722, 477), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (637, 434), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (561, 406), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (507, 390), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (481, 387), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (471, 390), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (468, 401), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (469, 420), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (492, 460), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (530, 502), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (577, 543), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (629, 580), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (675, 610), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (714, 631), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (740, 642), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (752, 645), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (753, 645), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (752, 640), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (734, 624), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (688, 592), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (618, 548), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (540, 504), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (452, 459), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (367, 418), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (304, 391), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (268, 378), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (267, 377), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (270, 377), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (293, 377), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (351, 383), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (433, 394), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (542, 412), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (663, 433), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (788, 456), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (909, 487), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1012, 514), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1077, 535), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1102, 546), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1102, 547), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1099, 547), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1075, 548), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1022, 552), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (960, 552), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (895, 554), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (850, 563), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (827, 573), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (819, 579), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (817, 590), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (820, 602), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (830, 612), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (847, 623), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (873, 629), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (907, 632), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (949, 630), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1000, 618), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1049, 596), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1089, 573), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1115, 553), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1126, 534), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1134, 512), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1132, 486), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1111, 446), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1078, 408), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1038, 368), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (981, 326), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (922, 287), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (863, 258), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (819, 239), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (800, 233), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (798, 233), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (798, 235), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (800, 239), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (818, 254), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (869, 291), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (944, 333), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1046, 386), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1150, 439), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1253, 483), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1343, 516), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1413, 538), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1454, 549), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1451, 549), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1419, 542), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1347, 525), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1248, 504), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1133, 484), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1013, 472), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (919, 468), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (852, 475), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (813, 492), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (796, 508), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (787, 528), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (787, 545), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (796, 565), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (824, 586), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (863, 605), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (918, 625), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (975, 641), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1022, 649), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1044, 653), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1042, 653), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (1021, 653), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (969, 653), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (910, 655), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (853, 669), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (804, 686), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (764, 709), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (732, 727), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (713, 739), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (706, 745), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (710, 742), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (712, 740), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (716, 734), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (720, 724), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (724, 713), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (724, 706), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (726, 698), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (726, 691), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (724, 680), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (720, 671), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (708, 660), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (689, 640), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (652, 617), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (602, 593), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (549, 571), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (505, 554), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (484, 549), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (486, 549), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (489, 549), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (486, 549), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (483, 549), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (475, 548), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 547), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (450, 546), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (437, 545), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (426, 545), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (425, 545), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (427, 549), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (434, 550), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (447, 553), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (466, 555), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (492, 558), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (515, 561), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (536, 566), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (544, 567), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (545, 567), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (545, 571), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (544, 573), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (537, 576), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (521, 579), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (503, 589), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (485, 599), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (474, 605), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (466, 612), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 615), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 617), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 616), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 612), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 607), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 605), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 602), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 600), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 597), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 594), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 593), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 591), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 586), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (462, 581), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (462, 580), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (461, 579), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (461, 579), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (461, 579), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (461, 578), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (462, 578), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (463, 578), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (464, 578), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (468, 578), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (470, 578), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (474, 577), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (480, 575), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (491, 572), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (502, 567), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (513, 564), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (524, 559), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (535, 553), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (546, 550), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (556, 544), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (560, 542), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (561, 542), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (561, 542), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (561, 542), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (561, 542), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (561, 542), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (563, 542), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (566, 542), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (569, 542), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (574, 541), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (576, 540), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (580, 540), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (585, 538), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (586, 537), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (587, 537), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (588, 537), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (589, 537), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (590, 537), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (592, 536), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (595, 536), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (597, 535), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (600, 533), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (601, 533), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (602, 533), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (602, 533), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (602, 533), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (603, 533), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (607, 532), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (609, 531), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (611, 530), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (615, 529), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (618, 528), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (623, 526), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (623, 525), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (624, 525), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (625, 525), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (627, 524), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (628, 523), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (630, 523), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (632, 521), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (632, 521), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (632, 521), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (634, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (638, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (642, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (647, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (654, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (662, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (670, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (681, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (690, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (697, 520), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (706, 519), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (725, 517), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (733, 515), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (743, 513), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (750, 512), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (757, 512), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (762, 511), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (763, 510), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (763, 510), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (763, 510), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (763, 507), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (763, 503), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (763, 499), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (763, 496), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (763, 492), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (763, 488), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (765, 481), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (769, 474), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (772, 470), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (777, 465), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (778, 464), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (782, 461), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (786, 459), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (787, 458), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (789, 456), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (790, 456), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (790, 456), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (790, 455), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (790, 455), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (790, 457), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (790, 459), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (790, 464), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (790, 473), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (790, 485), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (790, 500), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (788, 517), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (785, 535), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (781, 556), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (775, 580), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (770, 612), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (767, 640), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (764, 671), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (761, 694), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (757, 708), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (755, 720), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (754, 727), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (754, 731), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (754, 731), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (754, 731), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (754, 733), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (756, 736), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (758, 739), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (760, 744), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (762, 746), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (765, 748), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (769, 752), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (772, 755), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (778, 760), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (780, 761), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (783, 761), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (789, 765), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (794, 770), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (802, 775), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (808, 780), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (812, 782), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (813, 783), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (813, 783), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (813, 783), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (814, 783), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (816, 783), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (821, 784), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (826, 785), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (829, 786), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (835, 788), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (843, 789), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (855, 789), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (867, 790), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (880, 791), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (895, 791), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (909, 791), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (925, 791), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (939, 791), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (949, 790), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (950, 790), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (951, 790), button_pressed: [false, false, false, false, false, false] }
+MouseState { coords: (951, 790), button_pressed: [false, true, false, false, false, false] }
+MouseState { coords: (951, 790), button_pressed: [false, false, false, false, false, false] }
+[L]
+[A, L, S]
+[A, D, L, S]
+[D, K, L, S]
+[D, F, J, K, L]
+[D, F, H, J, K, L]
+[F, H, J]
+[F, H]
+[A, F, H]
+[A, L, S]
+[A, D, H, J, S]
+[A, D, F, H]
+[F, H]
+[F, H, L]
+[F, H, K, L]
+[A, H, J, L, S]
+[A, H, S]
+[Space, A, C, H, S]
+[C, F, H]
+[C, F, N]
+[C, N, O]
+[C, N, O, Q]
+[C, O, Q]
+[C, E, O, Q]
+[C, E, H, O, Q, U]
+[C, F, G, H, N, Q]
+[C, F, G, H, N]
+[C, F, G, N, P]
+[I, O, P]
+[U]
+[E, H, U]
+[E, F, H, N]
+[Space, F, H, N]
+[Space, F, G, H, N]
+[Space, F, G, H, L, N]
+[G, L]
+[G, L, U]
+[]
+[E]
+[E, V]
+[E, P, V]
+[P, V]
+[O, P, V]
+[G, I, P, V]
+[G, I, V]
+[E, J, V]
+[E, V]
+[]
+[P]
+[]
+[LControl]
+[C, LControl]
